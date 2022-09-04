@@ -1,6 +1,6 @@
 {
 	"description": "The Library of Digiflazz",
-	"name": "digiflazz_codeigniter",
+	"name": "digiflazz/codeigniter",
 	"type": "project",
 	"homepage": "https://nugasin.com",
 	"license": "MIT",
